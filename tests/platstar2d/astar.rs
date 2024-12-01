@@ -1,7 +1,5 @@
 use crate::platstar2d::common::*;
-use glam::Vec2;
 use platstar::strategy::AStar;
-use platstar::platstar2d::*;
 
 #[test]
 fn basic_test() {
