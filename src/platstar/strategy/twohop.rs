@@ -1,8 +1,6 @@
 use crate::platstar::strategy::Strategy;
 use crate::platstar::{*, self};
 use bitvec::bitbox;
-use bitvec::boxed::BitBox;
-use petgraph::visit::IntoEdgesDirected;
 use platstar::agent::CostProfile;
 
 use petgraph::prelude::*;
